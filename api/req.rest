@@ -9,6 +9,6 @@ Content-Type: application/json
 
 {
     "name": "Bugatti",
-    "model": "Veron",
+    "model": "ABC",
     "color": "Blue"
 }
